@@ -33,6 +33,8 @@ public class JedisCodeTest {
 
         // 4.关闭连接
         jedis.close();
+
+        // 在feature-good分支所做修改
     }
 
 }
