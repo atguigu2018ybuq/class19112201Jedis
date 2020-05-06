@@ -34,7 +34,9 @@ public class JedisCodeTest {
         // 4.关闭连接
         jedis.close();
 
+        // 在feature-good分支所做修改（master）
         // 在feature-good分支所做修改（happy分支）
+        // 合并两个分支，解决冲突……
     }
 
 }
